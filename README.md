@@ -27,8 +27,9 @@
 <div/>
  
 <br>
- 
+ <!--
  <div>
    <a href='#'><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/><a/>
  <div/>
+-->
 
