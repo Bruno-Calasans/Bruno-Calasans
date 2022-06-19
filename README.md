@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo 👋
 
 - 🌱 Estudadndo React + Next.js + TypeScript..
 - 📫 Contato: bruno.calasans.job@gmail.com
