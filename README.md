@@ -5,7 +5,8 @@
 - 😄 Pronomes: ele / dele
 - ⚡ Fun fact: não tem nenhum :V
 
-
+ <br>
+ 
 <div>
   
   <img height='160' src='https://github-readme-stats.vercel.app/api?username=bruno-calasans&show_icons=true&theme=radical'/>
@@ -13,7 +14,9 @@
   
 <div/>
   
-<div style='margin: 20px'> 
+ <br>
+  
+<div> 
   
   <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />     
   <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />       
